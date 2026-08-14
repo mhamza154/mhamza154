@@ -37,6 +37,7 @@ I'm a Front-End Developer who focuses on building **modern, scalable, and high-p
 - 🔭 Currently building scalable React/Next.js projects
 - 🌱 Learning advanced performance optimization & system design
 - 🎨 Passionate about UI animations (GSAP) & interactive experiences
+- 🌐 Also build & customize websites with WordPress for clients
 - 💬 Ask me about React, Next.js, JavaScript, or animation techniques
 - 📫 Reach me at: **m.hamzamughal60@gmail.com**
 
@@ -50,11 +51,14 @@ I'm a Front-End Developer who focuses on building **modern, scalable, and high-p
 **⚛️ Frameworks & Libraries**
 `React` · `Next.js` · `Tailwind CSS` · `GSAP`
 
+**🌐 CMS**
+`WordPress`
+
 **🔧 Tools & Platforms**
 `Git` · `GitHub` · `Vercel` · `Figma`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,wordpress,git,github,figma&theme=dark" />
 </p>
 
 ---
@@ -90,6 +94,35 @@ My goal isn't just to make a page that works — it's to make an interface that 
 
 ---
 
+## 🌟 Featured Projects
+
+### ⚛️ Custom Code Projects (React / Next.js)
+
+**💼 [Developer Portfolio Website](https://linen-cheetah-315569.hostingersite.com/)**
+My personal portfolio — built with Next.js, Tailwind CSS & GSAP, showcasing modern UI principles and smooth animations.
+
+🔗 [github.com/mhamza154/hamza-portfolio](https://github.com/mhamza154/hamza-portfolio)
+
+---
+
+### 🌐 WordPress Projects
+
+**📈 Scale Up Brands**
+A digital marketing & creative agency website — built for a client's own agency, featuring a multi-step lead capture form, portfolio showcase, service breakdown (web dev, branding, SEO, ads), and performance-focused design.
+🔗 Live: [scaleupbrands.co.uk](https://scaleupbrands.co.uk/)
+
+**🧊 Smart Spray Foam Removal**
+UK-based spray foam insulation removal company website — built with service area pages, free quote request form, project gallery, and FAQ section for a Basingstoke-based client.
+🔗 Live: [smartsprayfoamremoval.co.uk](https://smartsprayfoamremoval.co.uk/)
+
+**🏠 Advance Roofing NW**
+Roofing contractor website for a Chester-based business serving Cheshire & Manchester — includes free quote/inspection form, project gallery, and service pages for roof repair, flat roofing, and guttering.
+🔗 Live: [advanceroofingnw.co.uk](https://advanceroofingnw.co.uk/)
+
+> More projects are currently in progress — check my pinned repositories below. ⬇️
+
+---
+
 ## 📊 My Development Focus
 
 ```
@@ -112,21 +145,9 @@ I'm interested in opportunities where I can:
 * Contribute to real products used by real people
 * Grow as a Front-End / React Engineer
 * Work with modern front-end technologies
+* Take on WordPress website projects (client sites, landing pages, custom themes)
 
 Open to remote opportunities and interesting collaborations. 🌍
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhamza154&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhamza154&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamza154&layout=compact&theme=radical&hide_border=true" width="60%" />
-</p>
 
 ---
 
