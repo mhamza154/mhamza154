@@ -12,7 +12,7 @@ I build fast, modern, and visually engaging web experiences — from pixel-perfe
 <p align="center">
   <a href="https://linen-cheetah-315569.hostingersite.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel" /></a>
   <a href="https://www.linkedin.com/in/muhammad-hamza-6b8a91179/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:m.hamzamughal60@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -23,7 +23,7 @@ I build fast, modern, and visually engaging web experiences — from pixel-perfe
 ┌──────────────────────────────────────────────────────┐
 │                                                        │
 │  🎨 Front-End Developer                               │
-│  ⚛️  React & Next.js Specialist                        │
+│  ⚛️ React & Next.js Specialist                        │
 │  ✨ UI Animations with GSAP                            │
 │  🌍 Remote Work                                        │
 │  🚀 Building Real-World Projects                      │
@@ -38,7 +38,7 @@ I'm a Front-End Developer who focuses on building **modern, scalable, and high-p
 - 🌱 Learning advanced performance optimization & system design
 - 🎨 Passionate about UI animations (GSAP) & interactive experiences
 - 💬 Ask me about React, Next.js, JavaScript, or animation techniques
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **m.hamzamughal60@gmail.com**
 
 ---
 
@@ -87,19 +87,6 @@ My goal isn't just to make a page that works — it's to make an interface that 
 > Pixel-perfect UI over "good enough" UI.
 > Smooth user experience over unnecessary complexity.
 > Continuous improvement over knowing everything.
-
----
-
-## 🌟 Featured Projects
-
-### 🛒 Multi-Vendor E-commerce Platform
-A scalable e-commerce interface built for multiple vendors, focused on clean UX and responsive design.
-
-### 💼 [Developer Portfolio Website](https://linen-cheetah-315569.hostingersite.com/)
-My personal portfolio — built with Next.js, Tailwind CSS & GSAP, showcasing modern UI principles and smooth animations.
-🔗 [github.com/mhamza154/hamza-portfolio](https://github.com/mhamza154/hamza-portfolio)
-
-> More projects are currently in progress — check my pinned repositories below. ⬇️
 
 ---
 
@@ -154,7 +141,7 @@ If you're building a product, need a front-end developer, or just want to talk R
 </p>
 
 <p align="center">
-✨ <b>Build. Animate. Optimize. Ship.</b> ✨
+✨ <b>Thanks for visiting my profile.</b> ✨
 </p>
 
 <p align="center">
